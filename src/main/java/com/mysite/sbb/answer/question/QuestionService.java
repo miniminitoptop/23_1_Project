@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 
 import com.mysite.sbb.DataNotFoundException;
 import com.mysite.sbb.answer.Answer;
-import com.mysite.sbb.user.SiteUser;
+import com.mysite.sbb.user1.SiteUser;
 
 import jakarta.persistence.criteria.CriteriaBuilder;
 import jakarta.persistence.criteria.CriteriaQuery;

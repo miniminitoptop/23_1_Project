@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.server.ResponseStatusException;
 
 import com.mysite.sbb.answer.AnswerForm;
-import com.mysite.sbb.user.SiteUser;
-import com.mysite.sbb.user.UserService;
+import com.mysite.sbb.user1.SiteUser;
+import com.mysite.sbb.user1.UserService;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
