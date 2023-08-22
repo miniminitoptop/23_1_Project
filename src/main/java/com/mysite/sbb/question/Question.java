@@ -1,4 +1,4 @@
-package com.mysite.sbb.question;
+package com.mysite.sbb.answer.question;
 
 import java.time.LocalDateTime;
 import java.util.List;
